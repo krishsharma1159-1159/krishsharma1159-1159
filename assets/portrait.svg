@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 608 672" width="608" height="672">
+<style>
+
+        .ascii {
+            font-family: "Courier New", monospace;
+            font-size: 12px;
+            font-weight: 700;
+            fill: #00ff88;
+            white-space: pre;
+        }
+
+        .row {
+            clip-path: inset(0 100% 0 0);
+            animation:
+                reveal 0.75s ease-out forwards;
+        }
+
+        @keyframes reveal {
+
+            from {
+                clip-path: inset(0 100% 0 0);
+            }
+
+            to {
+                clip-path: inset(0 0 0 0);
+            }
+
+        }
+        
+</style>
+<text class="ascii row" x="0" y="12" style="animation-delay:0.000s">##############O#X.                              .,, .  .,:.:+x+:  .   :~~+~~</text>
+<text class="ascii row" x="0" y="24" style="animation-delay:0.035s">##############O#~                                  . ..,:,;++x+;:  ,,,,:,...</text>
+<text class="ascii row" x="0" y="36" style="animation-delay:0.070s">#############O#O,                                  ,,...::,:;~~,;,.::,;~~+~+</text>
+<text class="ascii row" x="0" y="48" style="animation-delay:0.105s">#############O#O,.     .                       .         :;~~++~~;.,;:.,;;;;</text>
+<text class="ascii row" x="0" y="60" style="animation-delay:0.140s">#############O#X.     ..                                  ,;~+~;~:,,:~**+;~+</text>
+<text class="ascii row" x="0" y="72" style="animation-delay:0.175s">#############O#X..                              ..,,:::,...:;+**;;~:.,;~+~+*</text>
+<text class="ascii row" x="0" y="84" style="animation-delay:0.210s">#############O#x.                             .,,,:;;;:;;;;;::;::::,,;~~+**+</text>
+<text class="ascii row" x="0" y="96" style="animation-delay:0.245s">#############O#x           ..                .,,:;~~~~~~~~~++~~::,.,:;+*****</text>
+<text class="ascii row" x="0" y="108" style="animation-delay:0.280s">#############O#x         .,:;:,.           .,:::~+++++++++****+~;;;;~***xxxX</text>
+<text class="ascii row" x="0" y="120" style="animation-delay:0.315s">#############OOO:      ..:~~~~:,:,, ....,.,:;;;+++*********xx*+~~+****xXXXXX</text>
+<text class="ascii row" x="0" y="132" style="animation-delay:0.350s">##############O#*      .:+++++~;;~:,:,,;,:;~~~+**xx****xxx***+++*xxxxXXXXOOO</text>
+<text class="ascii row" x="0" y="144" style="animation-delay:0.385s">##############OOO.     ,;**+++++++~;:,~~:~~++**xxXxxxxxxxx***xxxXXXXXXXOOOOO</text>
+<text class="ascii row" x="0" y="156" style="animation-delay:0.420s">#############O##O,    .,+**********+;:~:;~+****xxXXxxxxxxxxxxxXXXXXXOOOOO#O#</text>
+<text class="ascii row" x="0" y="168" style="animation-delay:0.455s">##############OO*      :+**********+,,,..,;~+++*xxxxxxxxxxxxXXXXXXOOO######O</text>
+<text class="ascii row" x="0" y="180" style="animation-delay:0.490s">############OXxxx~.    ~********+~;:..     ...,:;~+*xxxxxXXXXXXXXOOOOOOO#OOO</text>
+<text class="ascii row" x="0" y="192" style="animation-delay:0.525s">##########O#X+~+xx~,. .*x****++~;;:;:::,.         :~+*xxXXXXOOXXXXXOXXOOO##X</text>
+<text class="ascii row" x="0" y="204" style="animation-delay:0.560s">###########Ox~+*x**;, ;xxx***+~~~++**+++;;;::,.    ,,:+*xXXXXXXx*+++;~+xxXO*</text>
+<text class="ascii row" x="0" y="216" style="animation-delay:0.595s">#########O#O*~+xx++*; +xxx**+~~~++*****+~~~~~~;;;:,.  ,~**xxx*~:, .    ,::+x</text>
+<text class="ascii row" x="0" y="228" style="animation-delay:0.630s">###########O*+*Xx+~*~.*XXxx*++++++~~~;:,,.,..,,:~~;:,..:;~+~~,           . +</text>
+<text class="ascii row" x="0" y="240" style="animation-delay:0.665s">##########O#X+xX+~;;:;XXxxx****+~~:,..:    .;,.,:~~~~~~~~~~;,...,,:;;;;;;::x</text>
+<text class="ascii row" x="0" y="252" style="animation-delay:0.700s">##########O#O*x*:,,,.+XXXxxx****++~~~;;,.  :~, .:;~++**xXX*:,,....,;~+**+~O#</text>
+<text class="ascii row" x="0" y="264" style="animation-delay:0.735s">############Oxx*::;~:*Xxxxxxxxxx***++++~~~~~;;;:;~+*xxOO#Ox:        .:~++X#O</text>
+<text class="ascii row" x="0" y="276" style="animation-delay:0.770s">###########O#X*x+:;+;*xxxxxXXXXXxxx**+++++++~~~++*xxxXOOO#X~,..   ;; .:~x#O#</text>
+<text class="ascii row" x="0" y="288" style="animation-delay:0.805s">#############Ox+x*+::+xxxxxXXXXOXXXXxxxxxx****xxXXXxXOO#O#Ox;;~;,:+;,:+xOOO#</text>
+<text class="ascii row" x="0" y="300" style="animation-delay:0.840s">############O#X*+xX;:+xxxxxxXXXOOOOOOOOOOXXXXOOOOOXxXOO###OX+,,;;~~~*xXXO###</text>
+<text class="ascii row" x="0" y="312" style="animation-delay:0.875s">############O#OXx**+:;*xxxxxxXXXOOOOO##O#O###OOOOOXxXOO###OOX*~~~+*xOOOXO###</text>
+<text class="ascii row" x="0" y="324" style="animation-delay:0.910s">#############O#Xx*x*::+***xxxxxXXXOOO#########OXXXxxXOO###OOOOXXXXOO##OO####</text>
+<text class="ascii row" x="0" y="336" style="animation-delay:0.945s">#############O#OxxX+:;~**xxxxxxXXXOOOO#######OX*xxxxXOO####OOOOOOO##O#OO#O##</text>
+<text class="ascii row" x="0" y="348" style="animation-delay:0.980s">################OOXx:;~+*xxxxxxxXXXOOO#####O#X+*xx*xxXO###OOOO########OO#O##</text>
+<text class="ascii row" x="0" y="360" style="animation-delay:1.015s">####################~:~~*xxxxxxxxXXXOOO#####O*+XOOXxxXOO##OXXO######OOXO#O##</text>
+<text class="ascii row" x="0" y="372" style="animation-delay:1.050s">#################OOO*,~~+*xxxxxxxxXXXOOOOOOOx~+XOOXxxxXOOO#OxXOOO##OOXxO####</text>
+<text class="ascii row" x="0" y="384" style="animation-delay:1.085s">##################O#X,~~+******xxxxxXXXXOOOx+;~***++++*xxXOO*xXXOOOOXxX#O###</text>
+<text class="ascii row" x="0" y="396" style="animation-delay:1.120s">##################OOO:;~+**x****xxxxxxxXXXx++~;:,  ,~~;~~;~*+*xXXXXXXxOO####</text>
+<text class="ascii row" x="0" y="408" style="animation-delay:1.155s">###################O#*:+***xx*****xxxxxxXx*++~;,    ,:,,,*x*++xxxxXXxO#O####</text>
+<text class="ascii row" x="0" y="420" style="animation-delay:1.190s">#################OOO#X,+**xxx***********+~~;;;,     ..  +OOx++*xxxxxX#O#####</text>
+<text class="ascii row" x="0" y="432" style="animation-delay:1.225s">##############OO####X~:;+*x***********~,,,::,.       ..,+XXx++*xxxxx#O######</text>
+<text class="ascii row" x="0" y="444" style="animation-delay:1.260s">###########OOO##OOx++:;;;+**x*******+;.  ,::;::..  ,,.:~+**+~~+***xOO#######</text>
+<text class="ascii row" x="0" y="456" style="animation-delay:1.295s">########OOO###Ox+~~~; ;+:~*****++***~:,...,,,,:,,,:~+;;~+~,.:~+++x##OOO#####</text>
+<text class="ascii row" x="0" y="468" style="animation-delay:1.330s">####OOO####OX*~;~++~. :*~,~+**++++*+;;;;;:,,::,...,:::,...  :~+~~xOO####O###</text>
+<text class="ascii row" x="0" y="480" style="animation-delay:1.365s">OOO####OOXx*+~~+++~:  .+*~:;~~++++~;~++++++~~~++~::;++~:   ,~~;~*xxxXXO###OO</text>
+<text class="ascii row" x="0" y="492" style="animation-delay:1.400s">####OXx**++~~+++~~;:.  ;**~,:;~~~~;~+****++++~+*****xxx*~,.:;:~xXxxxx*xxOO##</text>
+<text class="ascii row" x="0" y="504" style="animation-delay:1.435s">OXxx*+++++~~+*+::;;:.  .~**+:,:;~;;~+**x**+;,:;;~~++++xx*;:,,~XXXXXXx*++*xXO</text>
+<text class="ascii row" x="0" y="516" style="animation-delay:1.470s">**+++++++~~**~:::~~,,   ,~**+;,,:::~+**xXx*~,       :*XX*;,:,+OXXXXXXX*;;+xX</text>
+<text class="ascii row" x="0" y="528" style="animation-delay:1.505s">+++~~;~+~+**~:::;+~,;,   ,~**+~:..,;~**XOOOOXx~:;;~*OOX*~, ;~+OOOXXXXXX*:;+X</text>
+<text class="ascii row" x="0" y="540" style="animation-delay:1.540s">++~~;;+++**;::::;++::+:   ,~++++;. ,:;~+xXOO#OOOO###Ox+:.   :+OOOOXXXXXX;;**</text>
+<text class="ascii row" x="0" y="552" style="animation-delay:1.575s">++++~+***+;::::;;++;,:++:.  ,:::::.  .,:~+*xxxXOOO#Ox;:, .;;:xOOOOOOXXXx~**x</text>
+<text class="ascii row" x="0" y="564" style="animation-delay:1.610s">++++++++~;:::::;;~+~;,,~++;.             .:;:;;~***~,;xx+xx~xOOOOOOOOXX*+**X</text>
+<text class="ascii row" x="0" y="576" style="animation-delay:1.645s">~~+++++~;::::::;;~~~~:.,;~~~;:,..               .  :*OOOX+;*xXOOOOOOOOx+~:xX</text>
+<text class="ascii row" x="0" y="588" style="animation-delay:1.680s">;~~+++~;;;;;;:;;;;~~~~:,.,:;;;:::::::::::,,...,,:+xO#OOX*~*x*XOOOOOXXx~;,;XX</text>
+<text class="ascii row" x="0" y="600" style="animation-delay:1.715s">~;~~++~;;;;;;;;:;;~~~~~;;:..,::::::,,,,,,,,,,;:~*+X*xxXXx*x*XOOOOOOX*+~::xXx</text>
+<text class="ascii row" x="0" y="612" style="animation-delay:1.750s">~~;~+~;;;;;;;;;:;;;~~~~;;;;:,,...,,,,:::,,,,;,:X~,~;~*XXxxxXOOOOOOOx+~~:*XXx</text>
+<text class="ascii row" x="0" y="624" style="animation-delay:1.785s">~~~+~;;;;;::;;:::;;;~~~;;:;;:::,,,.  ...,;+x;,X*:,,,:;*Ox*xXO#OOOOX*+*;+XXOO</text>
+<text class="ascii row" x="0" y="636" style="animation-delay:1.820s">~~+~::::::::;;:::::;;~~;;:::::::::::,,:;~*X~:Xx+;,, :x*x~*xXOOOOOOxxx;~XXXOO</text>
+<text class="ascii row" x="0" y="648" style="animation-delay:1.855s">~~+;:,,,,,,:;;:::::;;;;;;;:::::::::::;~+*x;:Ox**:,. .*X~+xxX#OO#Oxxx;;XXXOX*</text>
+<text class="ascii row" x="0" y="660" style="animation-delay:1.890s">~+~:,,,,,,::;;:::::::;;;;;;::::::::;~+*xX~~OXxx+~,,.~+x+**+OOOOOXxx::xXxxX*x</text>
+<text class="ascii row" x="0" y="672" style="animation-delay:1.925s">++~:::::::;;;;:::::::::;;;;;::::::;~+*xX**Oxxx*+++;;+**+*~+OOOOxx*::*OX~+*+X</text>
+</svg>

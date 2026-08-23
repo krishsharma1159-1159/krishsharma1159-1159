@@ -2,23 +2,11 @@
 
 <h3><code>$ cat contributions.log</code></h3>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/krishsharma1159-1159/krishsharma1159-1159/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/krishsharma1159-1159/krishsharma1159-1159/output/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/krishsharma1159-1159/krishsharma1159-1159/output/github-contribution-grid-snake.svg"
-    width="720"
-  />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/krishsharma1159-1159/krishsharma1159-1159/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub contribution snake animation"
+  width="720"
+/>
 
 <br><br>
 
